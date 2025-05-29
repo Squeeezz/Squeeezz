@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Squeeezz
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning Java, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me DC
+- 💞️ I’m looking to collaborate on TSoH
+- 📫 How to reach me: DC squeeezz
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
