@@ -1,56 +1,71 @@
 
 <div align="center">
 
-# `SQUEEEZZ`
+<pre>
+███████╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗███████╗
+██╔════╝██╔═══██╗██║   ██║██╔════╝██╔════╝╚══███╔╝╚══███╔╝
+███████╗██║   ██║██║   ██║█████╗  █████╗    ███╔╝   ███╔╝
+╚════██║██║▄▄ ██║██║   ██║██╔══╝  ██╔══╝   ███╔╝   ███╔╝
+███████║╚██████╔╝╚██████╔╝███████╗███████╗███████╗███████╗
+╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚══════╝
+</pre>
 
-**Developer • Tech Enthusiast • Problem Solver**
+`SOFTWARE DEVELOPMENT` / `CYBERSECURITY` / `EXPERIMENTATION`
 
-`SYSTEM ONLINE` 🟢
-
-[![GitHub](https://img.shields.io/badge/GitHub-Squeeezz-181717?style=for-the-badge&logo=github)](https://github.com/Squeeezz)
-[![Discord](https://img.shields.io/badge/Discord-squeeezz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+<sub>Building things. Breaking things. Figuring things out.</sub>
 
 </div>
 
 ---
 
-### `> whoami`
+### `01 // IDENTITY`
 
-Just a developer exploring the digital world.
+```yaml
+alias: Squeeezz
+role: Developer in Training
+location: Germany
 
-Interested in software development, cybersecurity, privacy and understanding how things work beneath the surface.
+interests:
+  - Software Development
+  - Cybersecurity & OPSEC
+  - Privacy
+  - Open Source
+```
 
-### `> tech_stack`
+### `02 // TOOLCHAIN`
 
-**Languages I'm exploring:**
+```text
+LANGUAGES
+├── Java
+├── C++
+├── Python
+└── SQL
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+FOCUS
+├── Building useful software
+├── Exploring security concepts
+└── Learning through experimentation
+```
 
-### `> current_interests`
+### `03 // PROJECTS`
 
-- Application Development
-- Cybersecurity & OPSEC
-- Privacy & Digital Security
-- Open Source Projects
-- Experimenting with new technologies
+**GHOST//TOOLS**
 
-### `> projects`
+> An experimental collection of privacy and OPSEC utilities.
 
-| Project | Description | Status |
-|:---|:---|:---|
-| GHOST//TOOLS | Personal OPSEC toolkit | In Development |
+`[ STATUS: IN DEVELOPMENT ]`
 
-### `> philosophy`
+---
 
-```bash
-learn → build → break → understand → repeat
+### `04 // CONTACT`
+
+```text
+DISCORD  : squeeezz
+GITHUB   : github.com/Squeeezz
 ```
 
 <div align="center">
 
-*"Stay curious. Stay anonymous. Keep building."*
+<sub>EOF // SQUEEEZZ</sub>
 
 </div>
